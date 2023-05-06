@@ -103,7 +103,7 @@ def get_birthday(birthday, year, today):
  
  
 def get_ciba():
-    url = "https://www.chinansn.com/article-1-1_233981-0.html"
+    url = "http://www.geyanwang.com/mingrenmingyan/detail/16656"
     headers = {
         'Content-Type': 'application/json',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
